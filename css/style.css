@@ -1,0 +1,15 @@
+#izq {
+    margin-top:-3.8em;
+    background:#071e3d !important;
+    position: fixed;
+    z-index: 1;
+}
+#izq img {
+    padding-right: 3em;
+    padding-top: 5em;
+    /* border-radius: 50%; */
+}
+#top {
+    position: relative;
+    z-index: 2; 
+}
